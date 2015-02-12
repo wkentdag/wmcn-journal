@@ -2,7 +2,7 @@
 ###Spring 2015 COMP-614 Indepdent Study
 ###February 10th weekly update
 ---
-This week I started brainstorming a to-do list for the WMCN website (and implemented the first ASAP task), sketched out a schedule for completing all of them, and began to write the API documentation (brainstorming available [here](https://github.com/wkentdag/wmcn-journal/src/feb10/use-cases.md), draft of docs  [here](https://github.com/wmcn-fm/wmcn-api/blob/master/docs/docs.md)).
+This week I started brainstorming a to-do list for the WMCN website (and implemented the first ASAP task), sketched out a schedule for completing all of them, and began to write the API documentation (brainstorming available [here](https://github.com/wkentdag/wmcn-journal/blob/master/src/feb10/use-cases.md), draft of docs  [here](https://github.com/wmcn-fm/wmcn-api/blob/master/docs/docs.md)).
 
 
 For the to-do list, I separated everything that needs to be done into three categories: stuff that must be completed ASAP for the current site, minimum functionality for the revamped site, and additional features for the new site that I hope to implement this semester but that are more luxury than necessity.
