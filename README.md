@@ -27,7 +27,7 @@ progress journal for spring 2015 [wmcn.fm](http://www.wmcn.fm) development
 | date | tasks to be completed: |
 |:---|:---|
 | 2/17 | ~~all ASAP to-do items; front-end use sketches to clarify API needs; continued progress on API docs~~
-| 2/24 | entire API documentation, database schema, and sitemap
+| 2/24 | ~~partial api docs~~
 | 3/3 | entire API documentation, database schema, and sitemap
 | 3/10 | entire API
 | 3/17 | **spring break**
