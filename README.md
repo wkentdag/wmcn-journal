@@ -28,13 +28,13 @@ progress journal for spring 2015 [wmcn.fm](http://www.wmcn.fm) development
 |:---|:---|
 | 2/17 | ~~all ASAP to-do items; front-end use sketches to clarify API needs; continued progress on API docs~~
 | 2/24 | entire API documentation, database schema, and sitemap
-| 3/3 | entire API
-| 3/10 | rewritten `GET`-based html routes: i.e., viewing users, shows, playlists, news
+| 3/3 | entire API documentation, database schema, and sitemap
+| 3/10 | entire API
 | 3/17 | **spring break**
-| 3/24 | all html routes
-| 3/31 | first 2 items from admin GUI to-do
-| 4/7 | all admin GUI to-do
-| 4/14 | add page sidebars
-| 4/21 | modularize CSS, fix deploy methods; **redeploy**
-| 4/28 | work on cool new additions if time allows
-| 5/5 | " " 
+| 3/24 | rewritten `GET`-based html routes: i.e., viewing users, shows, playlists, news
+| 3/31 | all html routes
+| 4/7 | first 2 items from admin GUI to-do
+| 4/14 | all admin GUI to-do
+| 4/21 | add page sidebars
+| 4/28 | modularize CSS, fix deploy methods; **redeploy**
+| 5/5 | work on cool new additions if time allows
