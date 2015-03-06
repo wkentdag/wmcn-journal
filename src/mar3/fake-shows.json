@@ -1,0 +1,25 @@
+{
+	"_id": 10,
+	"title": "Lost in Translation",
+	"timeslot": -1,
+	"blurb": "A show inspired by the soundtrack to 
+	the movie 'Lost in Translation'",
+	"created": "01272012"
+},
+
+{
+	"_id": 11,
+	"title": "Dr. Massachusetts",
+	"timeslot": 142,
+	"blurb": "An hour long live DJ set featuring
+	house, drumnbass, UK garage, etc.",
+	"created": "01292913"
+},
+
+{
+	"_id": 12,
+	"title": "Fooood",
+	"timeslot": 123,
+	"blurb": "Soul food. Funk, hip hop, r&b, electronic.",
+	"created": "09052011"
+}

@@ -1,0 +1,35 @@
+{
+	"_id": 1,
+	"name": "Will Kent-Daggett",
+	"phone": 1234567890,
+	"hash": "...",
+	"email": "will@mac.edu",
+	"grad": 2015,
+	"mac_id": 123456789,
+	"iclass": 12345,
+	"created": "09072011"
+},
+
+{
+	"_id": 2,
+	"name": "Sam Landsberg",
+	"phone": 2324546789,
+	"hash": "...",
+	"email": "sam@mac.edu",
+	"grad": 2015,
+	"mac_id": 098765432,
+	"iclass": 55665,
+	"created": "09072011"
+},
+
+{
+	"_id": 3,
+	"name": "Mac Graduate",
+	"phone": 0099897777,
+	"hash": "...",
+	"email": "i@graduated.com",
+	"grad": 2005,
+	"mac_id": -1,
+	"iclass": -1,
+	"created": "09052004"
+}
